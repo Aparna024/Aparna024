@@ -1,5 +1,5 @@
 ![logo](https://github.com/Aparna024/Aparna024/blob/main/logo.png)
-<h1 align="center">Hey there!✌️, I'm Aparna S</h1>
+<h1 align="center">Hey there!✌️</h1>
 <h3 align="center">An Aspiring AI Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aparna024&label=Profile%20views&color=0e75b6&style=flat" alt="aparna024" /> </p>
