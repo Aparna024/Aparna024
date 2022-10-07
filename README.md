@@ -1,3 +1,4 @@
+![logo](https://github.com/Aparna024/Aparna024/blob/main/logo.png)
 <h1 align="center">Hey there!✌️, I'm Aparna S</h1>
 <h3 align="center">An Aspiring AI Engineer</h3>
 
