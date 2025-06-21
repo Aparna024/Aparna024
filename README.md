@@ -88,7 +88,7 @@
 - 📧 Email: aparnasureshkumar24@gmail.com
 
 ---
-<p align="center">
+<p align="left">
   <i>💡 "Passionate about leveraging AI to solve real-world problems and drive innovation"</i>
 </p>
 
