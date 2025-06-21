@@ -39,7 +39,7 @@
 <a href="https://www.adobe.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe/adobe-icon.svg" alt="adobe" width="40" height="40"/> </a> 
   
 </p>
-
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=aparna024&show_icons=true&locale=en&layout=compact" alt="aparna024" /></p>
 
 
 ## 🏆 Key Achievements
@@ -92,7 +92,7 @@
   <i>💡 "Passionate about leveraging AI to solve real-world problems and drive innovation"</i>
 </p>
 
- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aparna024&show_icons=true&locale=en&layout=compact" alt="aparna024" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aparna024&show_icons=true&locale=en&layout=compact" alt="aparna024" /></p>
 <!--
  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aparna024&show_icons=true&locale=en" alt="aparna024" /></p> -->
 <!--
