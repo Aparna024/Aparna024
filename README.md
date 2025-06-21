@@ -6,7 +6,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 Currently learning **AI, ML**
+
+## 🚀 About Me
+
+- 🎓 **Recent B.Tech Graduate** in Computer Science Engineering with specialization in **Artificial Intelligence**
+- 💼 **Former Adobe ACS Intern** - Automated employee onboarding processes and mastered integration technologies
+- 🧠 **AI/ML Specialist** with expertise in Deep Learning, NLP, and Pattern Recognition
+- 📊 **Data Science Professional** experienced in analytics, visualization, and predictive modeling
+- 🔬 **Published Researcher** - Presented work on "Enhancing Brain Tumor Diagnosis with GANs" at Confluence-2024
+- 🌱 Currently exploring **Advanced Deep Learning architectures** and **MLOps practices**
 
 
 
