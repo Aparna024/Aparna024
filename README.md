@@ -36,7 +36,7 @@
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> 
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
 <a href="https://www.adobe.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe/adobe-icon.svg" alt="adobe" width="40" height="40"/> </a> 
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aparna024&show_icons=true&locale=en&layout=compact" alt="aparna024" /></p> 
+  
 </p>
 
 
@@ -91,7 +91,7 @@
   <i>💡 "Passionate about leveraging AI to solve real-world problems and drive innovation"</i>
 </p>
 
-
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aparna024&show_icons=true&locale=en&layout=compact" alt="aparna024" /></p>
 <!--
  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aparna024&show_icons=true&locale=en" alt="aparna024" /></p> -->
 <!--
